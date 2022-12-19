@@ -1,9 +1,9 @@
-import CounterContainer from './Components/CounterContainer';
+import SampleContainer from './Container/SampleContainer';
 
 function App() {
   return (
     <div>
-      <CounterContainer />
+      <SampleContainer />
     </div>
   );
 }

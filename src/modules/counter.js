@@ -8,7 +8,7 @@ const DECREASE = 'counter/DECREASE';
 export const increase = createAction(INCREASE);
 export const decrease = createAction(DECREASE);
 
-// Thunk 생성 함수 만들기
+// thunk 생성 함수 만들기
 // 1초 뒤에 increase 혹은 decrease 함수를 디스패치
 export const increaseAsync = () => dispatch => {
     setTimeout(() => {
@@ -21,7 +21,7 @@ export const decreaseAsync = () => dispatch => {
     }, 1000)
 };
 
-// 초기 상태 및  리듀서 함수 만들기 
+// 초기 상태 및 리듀서 함수 만들기 
 const initialState = 0; // 상태는 꼭 객체일 필요는 없음
 
 const counter = handleActions(

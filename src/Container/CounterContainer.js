@@ -1,5 +1,5 @@
 import { connect } from "react-redux";
-import Counter from "./Counter";
+import Counter from "../Components/Counter";
 import { increaseAsync, decreaseAsync } from "../modules/counter";
 
 const CounterContainer = ({ number, increaseAsync, decreaseAsync }) => {
