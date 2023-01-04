@@ -1,6 +1,6 @@
 # 스플 리팅
 
-노션링크: https://seokjuna.notion.site/19-e93bc957fa6045389a9abdb01a17567a<br>
+노션 링크: https://seokjuna.notion.site/19-e93bc957fa6045389a9abdb01a17567a<br>
 
 학습한 스플리팅:
 1. 자바스크립트 함수 비동기 로딩
