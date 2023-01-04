@@ -14,4 +14,9 @@ https://seokjuna.notion.site/18-2-2be96a2589874afc96e8901b36596638<br>
 
 <br>
 React:<br>
-- yarn: redux, react-redux, redux-actions, redux-logger, redux-thunk, redux-saga, redux-devtools-extension<br>
+- UI: Counter, Sample
+- yarn: redux, react-redux, redux-actions, redux-logger, redux-thunk, axios, redux-saga, redux-devtools-extension<br>
+
+<img width="400" alt="Counter" src="https://user-images.githubusercontent.com/102382351/210504824-74b22596-e221-4fa6-9593-1e5c7f303425.png"><br>
+
+<img width="400" alt="Sample" src="https://user-images.githubusercontent.com/102382351/210504592-09965620-cd49-44e2-955e-7377d2671c6c.png">
